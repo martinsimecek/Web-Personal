@@ -1,2 +1,5 @@
-app/lang/*
-send.php
+app/lang/cs.php
+app/lang/de.php
+app/lang/en.php
+app/config/*
+public/assets/img/*
